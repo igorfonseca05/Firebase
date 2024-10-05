@@ -87,7 +87,7 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 
 ## Meu progresso
 
-![alt text](2.png)
+![alt text](2-1.png)
 
 # Minhas notas
 
@@ -101,4 +101,4 @@ Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso
 
 Nesta seção damos inicio a construção do nossa primeira aplicação, um **To-do list**, onde construimos a interface do nosso aplicativo usando HTML, CSS e Javascript sem fazer a integração com o Firebase. Ao final do capitulo o frontend da nossa aplicação ficou como mostrado na imagem abaixo.
 
-![Frontend to-do list](image.png)
+![alt text](image-1.png)
