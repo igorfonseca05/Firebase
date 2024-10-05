@@ -70,10 +70,6 @@
 2. **Limitações em consultas complexas**: Consultas muito avançadas podem ser complicadas de implementar ou ter performance limitada.
 3. **Custo crescente**: Embora comece gratuito, o custo aumenta rapidamente com o uso intensivo de dados, autenticação e funções.
 
-# Minhas notas
-
-Nesta seção irei adicionar minhas anotações e explicações sobre os produtos que o firebase disponibiliza para o desenvolvimento web.
-
 ## Sobre o curso
 
 Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas seguintes seções:
@@ -88,6 +84,14 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 - [ ] **Seção 8**: [Persistindo dados no Cloud Firestore do Firebase (CRUD)](#seção-8-persistindo-dados-no-cloud-firestore-do-firebase-crud)
 - [ ] **Seção 9**: [Hospedando a terceira versão da aplicação](#seção-9-hospedando-a-terceira-versão-da-aplicação)
 - [ ] **Seção 10**: [Finalização do nosso curso](#seção-10-finalização-do-nosso-curso)
+
+## Meu progresso
+
+![alt text](2.png)
+
+# Minhas notas
+
+Nesta seção irei adicionar minhas anotações e explicações sobre os produtos que o firebase disponibiliza para o desenvolvimento web.
 
 ### Introdução ao nosso curso sobre Google Firebase
 
