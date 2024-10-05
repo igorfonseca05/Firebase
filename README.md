@@ -73,3 +73,18 @@
 # Minhas notas
 
 Nesta seção irei adicionar minhas anotações e explicações sobre os produtos que o firebase disponibiliza para o desenvolvimento web.
+
+## Sobre o curso
+
+Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas seguintes seções:
+
+- [ ] **Seção 1**: [Introdução ao nosso curso sobre Google Firebase](#seção-1-introdução-ao-nosso-curso-sobre-google-firebase)
+- [ ] **Seção 2**: [Definindo interface de usuário inicial](#seção-2-definindo-interface-de-usuário-inicial)
+- [ ] **Seção 3**: [Autenticando e gerenciando usuários com o Firebase Authentication](#seção-3-autenticando-e-gerenciando-usuários-com-o-firebase-authentication)
+- [ ] **Seção 4**: [Hospedando a primeira versão da aplicação](#seção-4-hospedando-a-primeira-versão-da-aplicação)
+- [ ] **Seção 5**: [Persistindo dados no Realtime Database do Firebase (CRUD)](#seção-5-persistindo-dados-no-realtime-database-do-firebase-crud)
+- [ ] **Seção 6**: [Gerenciando arquivos no Cloud Storage de Firebase](#seção-6-gerenciando-arquivos-no-cloud-storage-de-firebase)
+- [ ] **Seção 7**: [Hospedando a segunda versão da aplicação](#seção-7-hospedando-a-segunda-versão-da-aplicação)
+- [ ] **Seção 8**: [Persistindo dados no Cloud Firestore do Firebase (CRUD)](#seção-8-persistindo-dados-no-cloud-firestore-do-firebase-crud)
+- [ ] **Seção 9**: [Hospedando a terceira versão da aplicação](#seção-9-hospedando-a-terceira-versão-da-aplicação)
+- [ ] **Seção 10**: [Finalização do nosso curso](#seção-10-finalização-do-nosso-curso)
