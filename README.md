@@ -78,8 +78,8 @@ Nesta seção irei adicionar minhas anotações e explicações sobre os produto
 
 Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas seguintes seções:
 
-- [ ] **Seção 1**: [Introdução ao nosso curso sobre Google Firebase](#seção-1-introdução-ao-nosso-curso-sobre-google-firebase)
-- [ ] **Seção 2**: [Definindo interface de usuário inicial](#seção-2-definindo-interface-de-usuário-inicial)
+- [x] **Seção 1**: [Introdução ao nosso curso sobre Google Firebase](#introdução-ao-nosso-curso-sobre-google-firebase)
+- [x] **Seção 2**: [Definindo interface de usuário inicial](#seção-2-definindo-interface-de-usuário-inicial)
 - [ ] **Seção 3**: [Autenticando e gerenciando usuários com o Firebase Authentication](#seção-3-autenticando-e-gerenciando-usuários-com-o-firebase-authentication)
 - [ ] **Seção 4**: [Hospedando a primeira versão da aplicação](#seção-4-hospedando-a-primeira-versão-da-aplicação)
 - [ ] **Seção 5**: [Persistindo dados no Realtime Database do Firebase (CRUD)](#seção-5-persistindo-dados-no-realtime-database-do-firebase-crud)
@@ -88,3 +88,7 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 - [ ] **Seção 8**: [Persistindo dados no Cloud Firestore do Firebase (CRUD)](#seção-8-persistindo-dados-no-cloud-firestore-do-firebase-crud)
 - [ ] **Seção 9**: [Hospedando a terceira versão da aplicação](#seção-9-hospedando-a-terceira-versão-da-aplicação)
 - [ ] **Seção 10**: [Finalização do nosso curso](#seção-10-finalização-do-nosso-curso)
+
+1. ### Introdução ao nosso curso sobre Google Firebase
+
+   Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso do firebase base, o que pode ser lido na seção 1: [O Firebase](#o-firebase) e nas seções subjacentes.
