@@ -2,7 +2,18 @@
 
 ![capa](https://github.com/user-attachments/assets/de9f0919-ba03-4d59-89ce-7c12cf485ba6)
 
-# O firebase
+# Menu
+
+1. [O Firebase](#o-firebase)
+2. [Recursos](#recursos)
+3. [Quando usar o Firebase?](#quando-usar-o-firebase)
+4. [Quando não usar o Firebase?](#quando-não-usar-o-firebase)
+5. [Como o Firebase Funciona?](#como-o-firebase-funciona)
+6. [Vantagens do Firebase](#vantagens-do-firebase)
+7. [Desvantagens do Firebase](#desvantagens-do-firebase)
+8. [Minhas notas](#minhas-notas)
+
+# O Firebase
 
 É uma plataforma de desenvolvimento de aplicativos desenvolvida pelo Google, que fornece uma variedade de ferramentas e serviços para facilitar a criação, integração e manutenção de aplicações web e móveis. É amplamente utilizado para gerenciar funcionalidades de backend como autenticação, banco de dados, armazenamento de arquivos, análise de dados e muito mais.
 
@@ -58,3 +69,7 @@
 1. **Dependência de plataforma**: Por ser um serviço gerenciado pelo Google, há um certo grau de dependência na infraestrutura.
 2. **Limitações em consultas complexas**: Consultas muito avançadas podem ser complicadas de implementar ou ter performance limitada.
 3. **Custo crescente**: Embora comece gratuito, o custo aumenta rapidamente com o uso intensivo de dados, autenticação e funções.
+
+# Minhas notas
+
+Nesta seção irei adicionar minhas anotações e explicações sobre os produtos que o firebase disponibiliza para o desenvolvimento web.
