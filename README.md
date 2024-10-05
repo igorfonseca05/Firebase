@@ -89,6 +89,12 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 - [ ] **Seção 9**: [Hospedando a terceira versão da aplicação](#seção-9-hospedando-a-terceira-versão-da-aplicação)
 - [ ] **Seção 10**: [Finalização do nosso curso](#seção-10-finalização-do-nosso-curso)
 
-1. ### Introdução ao nosso curso sobre Google Firebase
+### Introdução ao nosso curso sobre Google Firebase
 
-   Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso do firebase base, o que pode ser lido na seção 1: [O Firebase](#o-firebase) e nas seções subjacentes.
+Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso do firebase base, o que pode ser lido na seção 1: [O Firebase](#o-firebase) e nas seções subjacentes.
+
+### Definindo interface de usuário inicial
+
+Nesta seção damos inicio a construção do nossa primeira aplicação, um **To-do list**, onde construimos a interface do nosso aplicativo usando HTML, CSS e Javascript sem fazer a integração com o Firebase. Ao final do capitulo o frontend da nossa aplicação ficou como mostrado na imagem abaixo.
+
+![Frontend to-do list](image.png)
