@@ -106,6 +106,9 @@ Nesta seção damos inicio a construção do nossa primeira aplicação, um **To
 ### **Seção 3**: Autenticando e gerenciando usuários com o Firebase Authentication
 
 Nesta seção vamos criar nosso projeto dentro do firebase e dar inicio a autênticação de usúario.
-Ao acessar o site do firebase você deve criar uma conta ou logar com sua conta google
+Ao acessar o site do firebase você deve criar uma conta ou logar com sua conta google, uma vez com sua conta criada, agora precisamos criar um projeto onde adicionaremos nossos aplicativos. Clique no link **Go console** na parte superior
+direita do site do firebase.
+
+![alt text](image-2.png)
 
 ![alt text](<footer firebase.png>)
