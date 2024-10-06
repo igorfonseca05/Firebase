@@ -111,4 +111,25 @@ direita do site do firebase.
 
 ![alt text](imgs/image-2.png)
 
+Ao abrir o console, click em **Criar projeto** como mostrado na imagem abaixo e seguir os passos sugeridos pelo firebase.
+
+![alt text](imgs/console.png)
+
+Na imagem acima vemos dois projetos criados, quando concluir os passos sugeridos pelo firebase o seu console deve contenter seu projeto. Acima temos dois projetos já criados e agora para usar os recursos do firebase devemos integra-los a nossa aplicação usando o SDKs do firebase.  
+Para fazer isso, click sobre seu projeto criado no console, você terá acesso a **Visão geral do projeto** e clicando no icone da ingrenagem, terá acesso as **configurações do projeto**
+
+![alt text](imgs/visao.png)
+
+Ao clicar e rolar a tela para baixo voce terá acesso as configurações abaixo. Instale o firebase no seu projeto executando no terminal
+
+    npm install firebase
+
+e copiando e colando no seu projeto o código mostrado na imagem.
+
+![alt text](imgs/sdk.png)
+
+Pronto! Os produtos do Firebase estarão prontos para serem utilizados dentro da sua aplicação. Daqui em diante falaremos sobre como usar o **Authentication** para autenticar os usúarios na sua aplicação.
+
+#### Usando o authentication
+
 ![alt text](<imgs/footer firebase.png>)
