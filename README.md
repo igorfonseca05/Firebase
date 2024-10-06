@@ -87,7 +87,7 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 
 ## Meu progresso
 
-![alt text](3.png)
+![alt text](imgs/3.png)
 
 # Minhas notas
 
@@ -101,7 +101,7 @@ Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso
 
 Nesta seção damos inicio a construção do nossa primeira aplicação, um **To-do list**, onde construimos a interface do nosso aplicativo usando HTML, CSS e Javascript sem fazer a integração com o Firebase. Ao final do capitulo o frontend da nossa aplicação ficou como mostrado na imagem abaixo.
 
-![alt text](image-1.png)
+![alt text](imgs/image-1.png)
 
 ### **Seção 3**: Autenticando e gerenciando usuários com o Firebase Authentication
 
@@ -109,6 +109,6 @@ Nesta seção vamos criar nosso projeto dentro do firebase e dar inicio a autên
 Ao acessar o site do firebase você deve criar uma conta ou logar com sua conta google, uma vez com sua conta criada, agora precisamos criar um projeto onde adicionaremos nossos aplicativos. Clique no link **Go console** na parte superior
 direita do site do firebase.
 
-![alt text](image-2.png)
+![alt text](imgs/image-2.png)
 
-![alt text](<footer firebase.png>)
+![alt text](<imgs/footer firebase.png>)
