@@ -87,18 +87,25 @@ Este curso é ministrado pelo professor **Augusto Crummenauer** e dividido nas s
 
 ## Meu progresso
 
-![alt text](2-1.png)
+![alt text](3.png)
 
 # Minhas notas
 
 Nesta seção irei adicionar minhas anotações e explicações sobre os produtos que o firebase disponibiliza para o desenvolvimento web.
 
-### Introdução ao nosso curso sobre Google Firebase
+### **Seção 1:** Introdução ao nosso curso sobre Google Firebase
 
 Neste capitulo o professor faz um breve resumo sobre os recursos e custos do uso do firebase base, o que pode ser lido na seção 1: [O Firebase](#o-firebase) e nas seções subjacentes.
 
-### Definindo interface de usuário inicial
+### **Seção 2:** Definindo interface de usuário inicial
 
 Nesta seção damos inicio a construção do nossa primeira aplicação, um **To-do list**, onde construimos a interface do nosso aplicativo usando HTML, CSS e Javascript sem fazer a integração com o Firebase. Ao final do capitulo o frontend da nossa aplicação ficou como mostrado na imagem abaixo.
 
 ![alt text](image-1.png)
+
+### **Seção 3**: Autenticando e gerenciando usuários com o Firebase Authentication
+
+Nesta seção vamos criar nosso projeto dentro do firebase e dar inicio a autênticação de usúario.
+Ao acessar o site do firebase você deve criar uma conta ou logar com sua conta google
+
+![alt text](<footer firebase.png>)
